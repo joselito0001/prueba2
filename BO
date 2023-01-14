@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",ATB La Paz
+
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x84eirw
+
+
+#EXTINF:-1 group-title="",ATB Santa Cruz
+
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x84t82c
+
+
+#EXTINF:-1 group-title="",Bolivia TV 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+https://i.imgur.com/1zTLGdj.jpg
+
+#EXTINF:-1 group-title="",Bolivia TV 7.2 Deportes
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+https://comteco.com.bo/img/upload/canales/e9mHku.png
+
+#EXTINF:-1 group-title="",Bolivia TV [Not 24/7]
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+https://upload.wikimedia.org/wikipedia/commons/7/78/BoliviaTV-logo.jpg
+
+#EXTINF:-1 group-title="",Bolivisión
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+https://i.imgur.com/U98Z5zn.png
+
+#EXTINF:-1 group-title="",DT Play (Deporte Total)
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+https://i.imgur.com/GUjaFmE.png
+
+#EXTINF:-1 group-title="",Marivisión TV
+https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
+https://i.imgur.com/ce29Mbv.png
+
+#EXTINF:-1 group-title="",MegaTV (Yacuiba)
+https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
+https://i.imgur.com/FDUkpBQ.png
+
+#EXTINF:-1 group-title="",PAT
+https://master.tucableip.com/pat/playlist.m3u8
+https://comteco.com.bo/img/upload/canales/fH1k23.png
+
+#EXTINF:-1 group-title="",Red Advenir [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+https://www.lyngsat.com/logo/tv/rr/red_ad_venir_internacional_bo.png
+
+#EXTINF:-1 group-title="",RTP [Not 24/7]
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+https://i.imgur.com/eTDc0wd.jpg
+
+#EXTINF:-1 group-title="",SEO TV
+https://live.seo.tv.bo/live/1SEO.m3u8
+https://i.imgur.com/5IPjtJk.png
+
+#EXTINF:-1 group-title="",SEO TV Kids
+https://live.seo.tv.bo/live/2SEO.m3u8
+https://i.imgur.com/BC0Ii7i.png
+
+#EXTINF:-1 group-title="",SEO TV Novelas
+https://live.seo.tv.bo/live/3SEO.m3u8
+https://i.imgur.com/5IPjtJk.png
+
+#EXTINF:-1 group-title="",SEO TV Películas
+https://live.seo.tv.bo/live/4SEO.m3u8
+https://i.imgur.com/5IPjtJk.png
+
+#EXTINF:-1 group-title="",TV Latina Canal 42 [Not 24/7]
+https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
+https://www.freeetv.com/images/02_logo/tv_latina_bolivia.jpg
+
+#EXTINF:-1 group-title="",TV Universitaria
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
+https://www.lyngsat.com/logo/tv/tt/tv-universitaria-bo.png
+
+#EXTINF:-1 group-title="",TVU [Not 24/7]
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
+https://i.imgur.com/YdiF5k6.png
+
+#EXTINF:-1 group-title="",UPP TV (480p) [Not 24/7]
+
+https://d2byzrnrdb259r.cloudfront.net/hls/upptv.m3u8
+
+#EXTINF:-1 group-title="",XTOTV [Not 24/7]
+http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
+https://i.imgur.com/NssXCJO.png
+
+#EXTINF:-1 group-title="", espejo
+https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
+https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png
