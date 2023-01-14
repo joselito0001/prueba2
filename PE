@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="", DMJ
+https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/cd42f39664a8407ac5071d2ef6842c9e.png
+
+#EXTINF:-1 group-title="", Contacto Deportivo
+https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png
+
+#EXTINF:-1 group-title="", Canal IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-oIEzY0G7pYY/XbI3QjoY6OI/AAAAAAAArqw/caCNpRl6FRoMHn1l0F-Tc9HmhrZRtxgggCK8BGAsYHg/s0/2019-10-24.png
+
+#EXTINF:-1 group-title="", Best Cable Music
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg
+
+#EXTINF:-1 group-title="", Memorias TV
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png
+
+#EXTINF:-1 group-title="", Mundo de la Musica TV
+https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png
+
+#EXTINF:-1 group-title="", Turbo Mix TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png
+
+#EXTINF:-1group-title="", Vision Musica TV
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-gaitJQnLecE/YKqXiP-BdgI/AAAAAAABCgE/Z-pquANdfv01XInDHZfgDzFf27LP7LOEACK8BGAsYHg/s512/2021-05-23.png
+
+#EXTINF:-1 group-title="", Antares TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png
+
+#EXTINF:-1 group-title="", ATV
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png
+
+#EXTINF:-1 group-title="", Autentica TV
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png
+
+#EXTINF:-1 group-title="", BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png
+
+#EXTINF:-1 group-title="", Canal 8 Catacaos
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?PlaylistM3UCL
+https://i2.paste.pics/6b2b101c818588d17c09562d3f96ce38.png
+
+#EXTINF:-1 group-title="", Central TV Chosica
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-RYmmtKCcnsg/XoKDWBIosrI/AAAAAAAAxVM/VtTI9I3CvW4yG16vrFcn_DVaTi1QPAKGwCK8BGAsYHg/s0/2020-03-30.png
+
+#EXTINF:-1 group-title="", Controversia TV
+https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/15caba439340da84feba0a02f409c8ca.png
+
+#EXTINF:-1 group-title="", CR TV
+https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/ff4a1765643e8c760881b4ca5ed2da18.png
+
+#EXTINF:-1 group-title="", Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-tyIk1Zn_9b4/XoKD7ngkdjI/AAAAAAAAxVU/YqFdEeFnHHEwerBlUrSu4ZiGRuhyh-uKACK8BGAsYHg/s0/2020-03-30.png
+
+#EXTINF:-1 group-title="", Doble C TV
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
+https://i2.paste.pics/0ac03650f0084a61e8e53d149310ac99.png
+
+#EXTINF:-1 group-title="", Genios TV
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png
+
+#EXTINF:-1 group-title="", Goresam TV
+https://stream.plixitv.live:443/goresamtv/goresamtv/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/2442044e1391e59708f00020c5e61198.png
+
+#EXTINF:-1 group-title="", Master Television
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/1b2a4d24338b3c56680b8837a91be53b.png
+
+#EXTINF:-1 group-title="", OK TeVe
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png
+
+#EXTINF:-1 group-title="", Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png
+
+#EXTINF:-1group-title="", Palmeras TV
+https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8?PlaylistM3UCL
+https://i2.paste.pics/9a94e3b8faaaf217451d643eeff53340.png
+
+#EXTINF:-1 group-title="", Sanjuanera TV
+https://live.obslivestream.com/sanjuanera/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/ced9b0fa2a3cca58bcc8b85fe70f21df.png
+
+#EXTINF:-1 group-title="", Sol Stereo
+https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/75e2f1c7ee9ad8744b40d47b8d8e41d1.png
+
+#EXTINF:-1 group-title="", Telecolor TV
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png
+
+#EXTINF:-1 group-title="", TV 5
+https://live.obslivestream.com/tv5/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/3d9a7d409eb013dd6eca9a5d1b3a1c24.png
+
+#EXTINF:-1 group-title="", TV Cosmos 15.1
+https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/9176c235a22b9745bcc6e930b2a7e904.png
+
+#EXTINF:-1 group-title="", TVperuanisima
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-421vow8pfJs/X5waL4rYooI/AAAAAAAA634/92Pn5Ue8nJQjtxdr9zKc2yQrmo9dsBuXACK8BGAsYHg/s0/2020-10-30.png
+
+#EXTINF:-1 group-title="", Uranio TV
+https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/e59013ac35938a2f9c304485f031f255.png
+
+#EXTINF:-1 group-title="", Via Alto Mayo
+https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/35046bd4f63cebcf522e4cd2981e262b.png
+
+#EXTINF:-1 group-title="" ,Radio San Borja TV [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+https://i.imgur.com/xvMDTe9.png
