@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",ETV
+https://sb.err.ee/live/etv.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://sb.err.ee/live/etv.m3u8
+
+#EXTINF:-1 group-title="",ETV2
+https://sb.err.ee/live/etv2.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://sb.err.ee/live/etv.m3u8
+
+#EXTINF:-1 group-title="",ETV+
+https://sb.err.ee/live/etvpluss.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://sb.err.ee/live/etv.m3u8
+
+#EXTINF:-1 group-title="",Life TV [Not 24/7]
+https://lifetv.bitflip.ee/live/stream1.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://sb.err.ee/live/etv.m3u8
+
+#EXTINF:-1 group-title="",TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://sb.err.ee/live/etv.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://sb.err.ee/live/etv.m3u8
