@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",CNA (Chaîne Nord Africaine) [Not 24/7]
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Echorouk News [Not 24/7]
+http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Samira TV
+https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
